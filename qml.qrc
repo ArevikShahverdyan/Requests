@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>newItem.qml</file>
+        <file>Satellite/1042820.png</file>
+        <file>infoPanel.qml</file>
+    </qresource>
+</RCC>
